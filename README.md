@@ -194,6 +194,19 @@ The application handles common invalid inputs such as:
 * Real-time event monitoring
 
 ---
+## Screenshots
+<img width="278" height="197" alt="image" src="https://github.com/user-attachments/assets/9d4e64f3-e049-4465-9fd6-4e703aeca569" />
+<img width="224" height="55" alt="image" src="https://github.com/user-attachments/assets/c9d03d08-fcd7-45c9-abb6-ac27351439e3" />
+<img width="269" height="70" alt="image" src="https://github.com/user-attachments/assets/0bb0abc5-f65f-4397-a5f6-2369d6ea753e" />
+<img width="227" height="68" alt="image" src="https://github.com/user-attachments/assets/1d0fd4f1-89f4-460d-b6e2-752cac1c8072" />
+<img width="258" height="142" alt="image" src="https://github.com/user-attachments/assets/37676ba1-9a02-4c62-9de0-dd1a17594170" />
+<img width="220" height="68" alt="image" src="https://github.com/user-attachments/assets/05c65e0e-bd17-43cd-8304-dbaf401f230e" />
+<img width="295" height="128" alt="image" src="https://github.com/user-attachments/assets/451b7651-351d-428e-b52d-93d321811b38" />
+<img width="350" height="71" alt="image" src="https://github.com/user-attachments/assets/6931ff08-7a9b-4444-b054-5a5d9d757c62" />
+
+
+
+
 
 ## Author
 
