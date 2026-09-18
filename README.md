@@ -194,7 +194,7 @@ The application handles common invalid inputs such as:
 * Real-time event monitoring
 
 ---
-## Screenshots
+## Screenshot
 
 
 <img width="278" height="197" alt="image" src="https://github.com/user-attachments/assets/9d4e64f3-e049-4465-9fd6-4e703aeca569" />
